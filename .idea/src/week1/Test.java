@@ -3,6 +3,6 @@
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Test git");
+        System.out.println("1236456");
     }
 }
