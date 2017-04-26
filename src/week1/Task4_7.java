@@ -24,7 +24,7 @@ public class Task4_7 {
         }
         if (secondDigit>firstDigit){
             if ((secondDigit%firstDigit)==0){
-                System.out.println("True "+((secondDigit/firstDigit)+" "+(secondDigit%secondDigit)));
+                System.out.println("True "+((secondDigit/firstDigit)+" "+(secondDigit%firstDigit)));
             } else {System.out.println("False "+((secondDigit/firstDigit)+" "+(secondDigit%firstDigit)));}
         }
     }
