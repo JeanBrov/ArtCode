@@ -7,7 +7,7 @@ import java.util.Scanner;
  лить, является ли он прямоугольным. Ответ вывести в виде сообщения.
 
  */
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         System.out.println("Input three side of triangle");
         System.out.println("A: ");
