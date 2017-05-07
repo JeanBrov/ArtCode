@@ -1,4 +1,4 @@
-package week2.codingbat;
+package week2.codingbat_array2;
 
 /**
  * Return the "centered" average of an array of ints, which we'll say is the mean average of the values, except ignoring the largest and smallest values

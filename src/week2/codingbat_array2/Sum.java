@@ -1,4 +1,4 @@
-package week2.codingbat;
+package week2.codingbat_array2;
 
 /**
  *

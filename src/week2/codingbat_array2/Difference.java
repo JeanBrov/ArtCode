@@ -1,4 +1,4 @@
-package week2.codingbat;
+package week2.codingbat_array2;
 
 /**
  * Given an array length 1 or more of ints, return the difference between the largest and smallest values in the array.
